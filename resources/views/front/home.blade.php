@@ -78,7 +78,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-6">
-                <img src="{{ asset('public/front/html/') }}/images/permission.jpg" style="min-height:550px" alt="" class="w-100">
+                <img src="{{ asset('public/front/html/') }}/images/groupPic.jpg" style="min-height:550px" alt="" class="w-100">
             </div>
         </div>
         <div class="row">
