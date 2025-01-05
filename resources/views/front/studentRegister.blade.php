@@ -7,7 +7,6 @@
     <div class="container position-relative full-screen">
         <div class="row h-100 align-items-center">
             <div class="col-12 text-center">
-                <img src="{{ asset('public/front/html/') }}/images/text2.png" alt=""/>
                 <div class="down-section text-center"><a href="#about" class="inner-link"><i class="ti-arrow-down icon-extra-small text-white-2 bg-deep-pink padding-15px-all sm-padding-10px-all rounded-circle"></i></a></div>
             </div>
         </div>
@@ -17,7 +16,7 @@
 <div class="container p-4">
     <div class="row align-items-center my-3 mb-4">
         <div class="col-12 text-center">
-            <h2 class="display-6 fw-bold">Reunion Registration Form</h2>
+            <h2 class="display-6 fw-bold">মিলনমেলা ২০২৫ রেজিস্ট্রেশন ফরম</h2>
             <!-- Button trigger modal -->
             <a class="fw-bold btn btn-success my-2" data-bs-toggle="modal" data-bs-target="#programDetails"><i class="fa-sharp fa-light fa-memo-circle-info"></i> Program Details</a>
             <a class="fw-bold btn btn-primary my-2" data-bs-toggle="modal" data-bs-target="#tShirtDetails"><i class="fa-sharp fa-solid fa-shirt"></i> T-Shirt Details</a>
@@ -47,7 +46,7 @@
                 @endif
                 @php
                     $today = date("Y-m-d"); //Today
-                    $date = '2024-12-02'; //Date
+                    $date = '2025-01-31'; //Date
                 @endphp
                 <h5 class="fw-bold d-none d-md-block">Emergency Help: 01674-779916</h5>
                 <h5 class="fw-bold d-md-none d-block text-center">Emergency Help: <br>01674-779916</h5>
@@ -228,7 +227,7 @@
   <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl mt-5" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="programDetailsModalLabel">Program Details</h5>
+        <p class="modal-title" id="programDetailsModalLabel">প্রোগ্রামের বিস্তারিত</p>
         <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -236,48 +235,59 @@
       <div class="modal-body">
         <div class="row">
             <div class="col-12 col-md-6">
-                <h6 class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">Reunion Venue</h6>
-                <p class="fw-bold">Play Ground of Cumilla Polytechnic Institute</p>
-                <h6 class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">Reunion Will Held</h6>
-                <p class="fw-bold">25th December 2024, Wednesday at 8.30 AM to Day Long</p>
-                <h6 class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">Registration Fees</h6>
+                <p class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">মিলনমেলা ২০২৫ ভেন্যু</p>
+                <p class="fw-bold">আলাদিনপার্ক, ধামরাই, সাভার।</p>
+                <p class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">অনুষ্ঠিত হবে</p>
+                <p class="fw-bold">০৭ ফেব্রুয়ারী ২০২৫,শুক্রবার সকাল ৮.০০থেকে সারাদিন পর্যন্ত।</p>
+                <p class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">রেজিস্ট্রেশন ফি</p>
                 
                 <ul>
-                    <li><b>Participate:</b> 1530/- (Bkash/Nagad Charge Included)</li>
-                    <li><b>Guest:</b> 1020/- (Bkash/Nagad Charge Included)</li>
+                    <li><b>সির্টিং ক্যাপাসিটি-</b> ৪০০ জন মাত্র</li>
+                    <li><b>সদস্য রেজি: ফি-</b> ১৫০০/- মাত্র(জনপ্রতি)</li>
+                    <li><b>অতিথি/বাচ্চা(৫ বছরের উপরে)-</b> ১০০০/- মাত্র(জনপ্রতি)</li>
+                    <li><b>ড্রাইভার-</b> ১০০০/- মাত্র</li>
                 </ul>
-                <p class="my-2 mt-4 fw-bold text-success">Payment System:</p>
+                <p class="my-2 mt-4 fw-bold text-success">রেজিষ্ট্রেশননাম্বার (বিকাশ)-</p>
                 <ul>
-                    <li><b class="text-danger">Bkash:</b> 01972-006267 (Merchant Make Payment)</li>
-                    <li><b class="text-danger">Nagad:</b> 01972-006267 (Merchant Make Payment)</li>
+                    <li><b class="text-danger">জাবেদ- </b> 01721125742</li>
+                    <li><b class="text-danger">আরমান- </b> 01713064475</li>
+                    <li><b class="text-danger">মাসুদ- </b> 01917973856</li>
+                    <li><b class="text-danger">শিহাব- </b> 01812089603</li>
+                    <li><b class="text-danger">নেসার- </b> 01710909254</li>
+                    <li><b class="text-danger">মিঠু- </b> 01728523760</li>
+                    <li><b class="text-danger">সাইমন- </b> 01516192656</li>
                 </ul>
-                <h6 class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">Registration Rules</h6>
-                
-                <ol>
-                    <li>Fill The Form for Only Once Even If There Are Multiple Guests</li>
-                    <li>General Member(Student of Session 2010-11 of CPI) joining fee 1530 BDT</li>
-                    <li>Per Guest Member Joining Fees 1020 BDT</li>
-                    <li>6 Years of Age Own Children Must Register, Don't Need to Below 6 Years</li>
-                </ol>
             </div>
             <div class="col-12 col-md-6">
-                <h6 class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">Program Arrangement Details</h6>
-                
+                <p class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">প্রোগ্রাম বিন্যাস বিবরণ</p>
                 <ul>
-                    <li>Breakfast(Premium Package)</li>
-                    <li>Lunch(Premium Package for Any Religion)</li>
-                    <li>Evening Snacks</li>
-                    <li>Premium Quality Branded T-Shirt(Polo)</li>
-                    <li>Souvenir Mog(Branded)</li>
-                    <li>Coffee Corner</li>
-                    <li>Baby Feeding Zone</li>
-                    <li>Female Rest Room</li>
-                    <li>Photo Zone</li>
-                    <li>Fun Zone for Kids</li>
-                    <li>Guest Female/Entertainment for Woman</li>
-                    <li>Raffle Draw (Attractive Gift)</li>
-                    <li>Gettings Video Message Display About Ex Engineers from Foreigners Friends(01674-779916 Imo,WhatsApp, Viber)</li>
+                    <li>মিলনমেলা থেকে বাসের ব্যবস্থা থাকবে।</li>
+                    <li>সকালের নাস্তা (প্রিমিয়াম)</li>
+                    <li>দুপুরের খাবার (প্রিমিয়াম)</li>
+                    <li>আলাদিনপার্ক শিশুদের জন্যে রাইড এর ব্যবস্থা।</li>
+                    <li>টি-শার্ট (পোলো)</li>
+                    <li>স্যুভেনির মগ (ব্র্যান্ডেড)</li>
+                    <li>কফি কর্নার</li>
+                    <li>বেবি ফিডিং জোন</li>
+                    <li>মহিলা বিশ্রাম কক্ষ</li>
+                    <li>ফটো জোন</li>
+                    <li>বাচ্চাদের জন্য মজার জোন</li>
+                    <li>অতিথি মহিলা/নারীর জন্য বিনোদন</li>
+                    <li>র‌্যাফেল ড্র </li>
+                    <li>সাংস্কৃতিক অনুষ্ঠান</li>
+                    <li>সন্ধার নাস্তা</li>
+                    <li>রাতের খাবার </li>
                 </ul>
+            </div>
+            <div class="col-12">
+                <p class="text-extra-dark-gray sm-w-80 d-inline-block mb-0 fw-bold">রেজিস্ট্রেশনের নিয়ম</p>
+                
+                <ol>
+                    <li>একাধিক অতিথি থাকলেও শুধুমাত্র একবারের জন্য ফর্মটি পূরণ করুন৷</li>
+                    <li>সাধারণ সদস্য যোগদান ফি ১৫৩০BDT</li>
+                    <li>প্রতি অতিথি + ড্রাইভার সদস্য যোগদানের ফি ১০২০BDT</li>
+                    <li>৫ বছর বয়সী নিজের বাচ্চাদের অবশ্যই নিবন্ধন করতে হবে, ৫ বছরের নিচের প্রয়োজন নেই। </li>
+                </ol>
             </div>
         </div>
       </div>

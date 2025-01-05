@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
     <head>
         <!-- title -->
-        <title>CPI – Engineer's Reunion 2024 (Session10-11) 
+        <title>CPI – Ex Student Welfare Association (Session 1975-2024) 
         </title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,7 +11,7 @@
         <!-- description -->
         <meta name="description" content="কুমিল্লা পলিটেকনিক ইনস্টিটিউট (সংক্ষেপে: সিপিআই) হচ্ছে বাংলাদেশের শীর্ষস্থানীয় প্রযুক্তি ও প্রকৌশল-সম্পর্কিত উচ্চশিক্ষা প্রতিষ্ঠান। এটি কুমিল্লা শহরের কোটবাড়ী এলাকায় অবস্থিত। কারিগরি শিক্ষা প্রসারের জন্য ১৯৬২ সালে ২৬ একর জায়গায় কুমিল্লা পলিটেকনিক ইনস্টিটিউট নামে প্রতিষ্ঠিত হয় এবং এটি প্রথম আইসিটি বেসড পলিটেকনিক ইনস্টিটিউট।">
         <!-- keywords -->
-        <meta name="keywords" content="cpi, cumilla poly, polytechnic, cpi reunion, reunion cpi, cpi reunion 2010-11, reunion cpi 2010-11, cpi reunion 10-11, reunion cpi 10-11">
+        <meta name="keywords" content="cpi, cumilla poly, polytechnic, cpi eswa, picnic eswa cpi, cpi eswa picnic 1975-2024, picnic cpi 1975-2024, cpi eswa 75-24, eswa picnic cpi">
         <script src="https://kit.fontawesome.com/32dcd4a478.js" crossorigin="anonymous"></script>
         <!-- favicon -->
         <link rel="shortcut icon" href="{{ asset('public/front/html/') }}/images/logo.png">
@@ -70,7 +70,7 @@
                 <div class="container-lg nav-header-container">
                     <!-- start logo -->
                     <div class="col-auto ps-0">
-                        <a href="#" title="cpi reunion" class="logo"><img src="{{ asset('public/front/html/') }}/images/logo.png" data-at2x="{{ asset('public/front/html/') }}/images/logo.png" class="logo-dark w-100" alt="cpi reunion"><img src="{{ asset('public/front/html/') }}/images/light-logo.png" data-at2x="{{ asset('public/front/html/') }}/images/light-logo.png" alt="cpi reunion" class="logo-light default w-100"></a>
+                        <a href="#" title="cpi picnic eswa" class="logo"><img src="{{ asset('public/front/html/') }}/images/logoCPIex.png" data-at2x="{{ asset('public/front/html/') }}/images/logoCPIex.png" class="logo-dark w-100" alt="cpi picnic 2025"><img src="{{ asset('public/front/html/') }}/images/light-logo.png" data-at2x="{{ asset('public/front/html/') }}/images/light-logo.png" alt="cpi picnic 2025" class="logo-light default w-100"></a>
                     </div>
                     <!-- end logo -->
                     <div class="col-auto col-lg accordion-menu pe-0">
@@ -83,12 +83,10 @@
                         <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
                             <ul class="nav navbar-nav alt-font font-weight-700">
                                 <li><a href="{{ url('/') }}" title="Home" class="inner-link">Home</a></li>
-                                <li><a href="#about" title="About" class="inner-link">About Reunion</a></li>
+                                <li><a href="#about" title="About" class="inner-link">About Picnic 2025</a></li>
                                 <li><a href="{{ route('studentRegister') }}" title="Services" class="inner-link">Register</a></li>
                                 <li><a href="#work" title="Work" class="inner-link">Details Community List</a></li>
                                 <li><a href="#perticipate" title="Team" class="inner-link">Perticipate List</a></li>
-                                <!-- <li><a href="#blog" title="Blog" class="inner-link">Blog</a></li> -->
-                                <!-- <li><a href="#clients" title="Clients" class="inner-link">Clients</a></li> -->
                                 <li><a href="#contact" title="Contact" class="inner-link">Contact</a></li>
                             </ul>
                         </div>
@@ -114,21 +112,21 @@
                     <div class="col text-center md-margin-50px-bottom sm-margin-30px-bottom wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">
                         <i class="icon-chat icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
                         <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">Let's Talk(WhatsApp)</div>
-                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto"> 01674-779916(Register)<br>01972-006267(Payment)<br> 01926-139346(Foreign)</p>
+                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto"> 00000000000(Register)<br>11111111111(Payment)<br> 22222222222(Foreign)</p>
                     </div>
                     <!-- end features box item -->
                     <!-- start features box item -->
                     <div class="col text-center sm-margin-30px-bottom wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
                         <i class="icon-envelope icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
                         <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">E-mail Us</div>
-                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto"><a href="mailto:support@cpireunion.com">support@cpireunion.com</a><br><a href="mailto:info@cpireunion.com">info@cpireunion.com</a></p>
+                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto"><a href="mailto:support@cpieswfa.cpireunion.com">support@cpieswfa.cpireunion.com</a><br><a href="mailto:info@cpieswfa.cpireunion.com">info@cpieswfa.cpireunion.com</a></p>
                     </div>
                     <!-- end features box item -->
                     <!-- start features box item -->
                     <div class="col text-center wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.6s">
                         <i class="icon-megaphone icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
-                        <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">Customer Services</div>
-                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto">Lorem Ipsum is simply dummy text of the printing.</p>
+                        <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">জরুরি যোগাযোগ</div>
+                        <p class="w-70 lg-w-85 md-w-55 sm-w-75 sm-margin-10px-bottom mx-auto">জরুরি প্রয়োজনে নিচের নাম্বারসমূহে কল করুন</p>
                     </div>
                     <!-- end features box item -->
                 </div>
@@ -141,12 +139,12 @@
                 <div class="row align-items-center">
                     <!-- start logo -->
                     <div class="col-md-3 text-center text-lg-start sm-margin-20px-bottom">
-                        <a href="#"><img class="footer-logo" src="{{ asset('public/front/html/') }}/images/logo.png" data-at2x="{{ asset('public/front/html/') }}/images/logo.png" alt="cip reunion"></a>
+                        <a href="#"><img class="footer-logo" src="{{ asset('public/front/html/') }}/images/logoCPIex.png" data-at2x="{{ asset('public/front/html/') }}/images/logoCPIex.png" alt="CPI ESWA"></a>
                     </div> 
                     <!-- end logo -->
                     <!-- start copyright -->
                     <div class="col-md-6 text-center text-small alt-font sm-margin-10px-bottom">
-                        &copy; {{ date('Y') }} CPI Reunion All Rights Reserverd. Website Developed by <a href="#" target="_blank" title="Virtual IT Professional">Virtual IT Professional</a>
+                        &copy; {{ date('Y') }} CPI ESWA All Rights Reserverd. Website Developed by <a href="#" target="_blank" title="Virtual IT Professional">Virtual IT Professional</a>
                     </div>
                     <!-- end copyright -->
                     <!-- start social media -->
