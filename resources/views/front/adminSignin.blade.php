@@ -3,7 +3,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>CPI – Engineer's Reunion 2024 (Session10-11)</title>
+    <title>CPI – Ex Student Welfare Association (Session 1975-2024)</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Reunion 2024 is going to be held on 25th December 2024 in the joint initiative of all departments of Comilla Polytechnic Institute for the session 2010-11." name="description" />
     <meta content="Virtua IT Professional" name="author" />
