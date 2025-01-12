@@ -127,7 +127,7 @@
                 <!-- Dark Logo-->
                 <a href="{{ url('/') }}" class="logo logo-dark" target="_blank">
                     <span class="logo-sm">
-                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                     </span>
                     <span class="logo-lg">
                         <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
@@ -136,10 +136,10 @@
                 <!-- Light Logo-->
                 <a href="{{ url('/') }}" class="logo logo-light" target="_blank">
                     <span class="logo-sm">
-                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                        <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                     </span>
                 </a>
                 <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover" id="vertical-hover">
