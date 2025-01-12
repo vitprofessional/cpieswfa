@@ -8,7 +8,7 @@
     <meta content="CPI Reunion Admin Panel" name="description" />
     <meta content="Virtual IT Professional" name="author" />
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('public/admin/velzon/html/default/') }}/assets/images/logo-light.png">
+    <link rel="shortcut icon" href="{{ asset('public/admin/velzon/html/default/') }}/assets/images/favicon-cpi.png">
 
     <script src="https://kit.fontawesome.com/32dcd4a478.js" crossorigin="anonymous"></script>
  
@@ -50,7 +50,7 @@
                 <div class="navbar-brand-box horizontal-logo">
                     <a href="{{ url('/') }}" class="logo logo-dark" target="_blank">
                         <span class="logo-sm">
-                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                         </span>
                         <span class="logo-lg">
                             <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
@@ -59,10 +59,10 @@
 
                     <a href="{{ url('/') }}" class="logo logo-light" target="_blank">
                         <span class="logo-sm">
-                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo-light.png" class="p-2" alt="" height="80">
+                            <img src="{{ asset('public/admin/velzon/html/default/') }}/assets/images/light-logo.png" class="p-2" alt="" height="80">
                         </span>
                     </a>
                 </div>
