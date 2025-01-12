@@ -83,8 +83,11 @@
                         <ol>
                             <li>একাধিক অতিথি থাকলেও শুধুমাত্র একবারের জন্য ফর্মটি পূরণ করুন৷</li>
                             <li>সাধারণ সদস্য যোগদান ফি ১৫৩০BDT</li>
-                            <li>প্রতি অতিথি + ড্রাইভার সদস্য যোগদানের ফি ১০২০BDT</li>
-                            <li>৫ বছর বয়সী নিজের বাচ্চাদের অবশ্যই নিবন্ধন করতে হবে, ৫ বছরের নিচের প্রয়োজন নেই। </li>
+                            <li>প্রতি অতিথি সদস্য যোগদানের ফি ১৫৩০BDT</li>
+                            <li>৫ বছর বয়সী নিজের বাচ্চাদের অবশ্যই নিবন্ধন করতে হবে(রেজিস্ট্রেশন ফি ১০০০ টাকা), ৫ বছরের নিচে বাচ্চার জন্য রেজিস্ট্রেশনের প্রয়োজন নেই। </li>
+                            <li>ড্রাইভার - ১০০০/-</li>
+                            <li>ড্রাইভার ভীতরে প্রবেশ করতে হবেনা, খাবারের সময় হলে এরা টোকেন দিয়ে খাবার নিয়ে যাবে।
+                            </li>
                         </ol>
                     </div>
                     <!-- end accordion -->
@@ -237,8 +240,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-8 col-sm-10 margin-eight-bottom text-center last-paragraph-no-margin md-margin-40px-bottom sm-margin-30px-bottom">
-                <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">Working Team</h5>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since.</p>
+                <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">কার্যকরী টিম</h5>
+                <p>উক্ত পিকনিকটি সফলভাবে সম্পন্ন করতে যেসকল বন্ধু নিরলসভাবে কাজ করে যাচ্ছে।</p>
             </div>  
         </div>
         <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
@@ -249,13 +252,13 @@
                         <img src="{{ url('/') }}/public/upload/student/1731844018.jpg" alt="">
                         <div class="team-overlay bg-deep-pink"></div>
                         <div class="team-member-position text-center margin-25px-top">
-                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">MD DIPU DEWAN</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Organizer</div>
+                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">ইঞ্জিনিয়ার মোঃ নাজিমুজ্জামান হাবলু</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">আহবায়ক</div>
                         </div>
                     </div>
                     <figcaption>
                         <div class="overlay-content text-center icon-social-small">
-                            <span class="text-small d-inline-block m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry dummy text.</span>
+                            <span class="text-small d-inline-block m-0">সিপিআই এক্স স্টুডেন্ট ওয়েলফেয়ার এসোসিয়েশন।</span>
                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb sm-margin-20px-tb"></div>
                             <a href="http://www.facebbok.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="http://www.twitter.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-twitter"></i></a>
@@ -273,13 +276,13 @@
                         <img src="{{ url('/') }}/public/upload/student/1731772172.jpg" alt="">
                         <div class="team-overlay bg-deep-pink"></div>
                         <div class="team-member-position text-center margin-25px-top">
-                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">Moftachim Billah Nahid</div>
+                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">মোহাম্মদ এমরান হোসেন</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">CO-Organizer</div>
                         </div>
                     </div>
                     <figcaption>
                         <div class="overlay-content text-center icon-social-small">
-                            <span class="text-small d-inline-block m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry dummy text.</span>
+                            <span class="text-small d-inline-block m-0">সদস্য সচিব</span>
                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb sm-margin-20px-tb"></div>
                             <a href="http://www.facebbok.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="http://www.twitter.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-twitter"></i></a>
@@ -297,13 +300,13 @@
                         <img src="{{ url('/') }}/public/upload/student/1731818129.jpg" alt="">
                         <div class="team-overlay bg-deep-pink"></div>
                         <div class="team-member-position text-center margin-25px-top">
-                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">Md. Faruq Hossain Faysal</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">IT Management Team</div>
+                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">মোঃ সাইদুল ইসলাম মিঠু</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">ম্যানেজমেন্ট টিম</div>
                         </div>
                     </div>
                     <figcaption>
                         <div class="overlay-content text-center icon-social-small">
-                            <span class="text-small d-inline-block m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry dummy text.</span>
+                            <span class="text-small d-inline-block m-0">2010-11 সেশন</span>
                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb sm-margin-20px-tb"></div>
                             <a href="http://www.facebbok.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="http://www.twitter.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-twitter"></i></a>
@@ -321,13 +324,13 @@
                         <img src="https://via.placeholder.com/700x892" alt="">
                         <div class="team-overlay bg-deep-pink"></div>
                         <div class="team-member-position text-center margin-25px-top">
-                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">Mirajur Rahman Tuhin</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Media & Graphics Team</div>
+                            <div class="text-extra-dark-gray font-weight-600 text-uppercase text-small alt-font">মোঃ আবু ইউসুফ</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">আই.টি টিম</div>
                         </div>
                     </div>
                     <figcaption>
                         <div class="overlay-content text-center icon-social-small">
-                            <span class="text-small d-inline-block m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry dummy text.</span>
+                            <span class="text-small d-inline-block m-0">পরিচালক, ভার্চুয়াল আই.টি প্রফেশনাল</span>
                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb sm-margin-20px-tb"></div>
                             <a href="http://www.facebbok.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="http://www.twitter.com" class="text-extra-dark-gray" target="_blank"><i class="fa-brands fa-twitter"></i></a>

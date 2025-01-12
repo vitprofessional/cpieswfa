@@ -50,7 +50,7 @@
                                         <div class="text-center mt-sm-2 mb-2 text-white-50">
                                             <div>
                                                 <a href="{{ url('/') }}" class="d-inline-block auth-logo">
-                                                    <img src="{{ asset('public/front/') }}/adminLogo.png" alt="" height="120">
+                                                    <img src="{{ asset('public/front/') }}/light-logo.png" alt="" height="120">
                                                 </a>
                                             </div>
                                         </div>
@@ -58,7 +58,7 @@
                                 </div>
                                 <!-- end row -->
                                 <div class="text-center mt-2">
-                                    <h5 class="text-primary">Welcome Back !</h5>
+                                    <h5 class="text-primary">Welcome Back!</h5>
                                     <p class="text-muted">Sign in to continue to admin panel.</p>
                                 </div>
                                 @if(Session::has('success'))
